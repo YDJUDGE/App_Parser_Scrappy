@@ -12,7 +12,7 @@
    3. Результат будет в файле `result.json`.
 
    ## Структура проекта
-   - `alkoteka_scrapper/spiders/alkoteka_spider.py`: Основной код спайдера.
+   - `alkoteka_scrapper/spiders/alkoteka_spider.py`: Основной код приложения.
    - `alkoteka_scrapper/middlewares.py`: Middleware для смены User-Agent.
    - `requirements.txt`: Список зависимостей.
    - `result.json`: Выходной файл с данными.
